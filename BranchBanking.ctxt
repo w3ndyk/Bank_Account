@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=BranchBanking
+comment1.params=clients
+comment1.target=BranchBanking(java.util.ArrayList)
+comment2.params=
+comment2.target=int\ getClientSize()
+comment3.params=i
+comment3.target=Client\ getClient(int)
+comment4.params=
+comment4.target=java.lang.String\ getBus()
+comment5.params=
+comment5.target=java.lang.String\ getPer()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
